@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanjum Motin Mitul
-- 👀 I’m interested in Competitive Programming, Machine Learning
+- 👀 I’m interested in Competitive Programming, Machine Learning, Deep Learning
 - 📫 How to reach me u1804033@student.cuet.ac.bd
 
 <!---
