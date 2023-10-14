@@ -32,6 +32,12 @@
 [![lightoj](https://img.shields.io/badge/Lightoj-darkviolet?style=for-the-badge&logo=laravel&logoColor=violet)](https://lightoj.com/user/tanjummotin)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanjummotin)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjummotin)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!---
 tanjummotin/tanjummotin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
